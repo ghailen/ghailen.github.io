@@ -20,5 +20,5 @@ system.out.println("welcome to ghailene's profile");
 
 ## photos
 
-![Alt text](image.png)
+![Alt text](../assets/lib/image_profile.jpg)
 
